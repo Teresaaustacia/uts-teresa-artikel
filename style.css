@@ -1,0 +1,67 @@
+/* Add styles here */
+body {
+    font: 16px times new roman;
+    background-color: #5214142c;
+
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background-color:antiquewhite;
+}
+.header {
+    padding: 10px;
+}
+
+.content {
+    padding: 20px;
+} 
+.content h2 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color : salmon;
+    padding: 3px;
+}
+
+.header a:hover {
+    background-color: darksalmon;
+    color:beige;
+}
+
+.hero {
+    height: 800px;
+    background-image: url(image.hero/marselinoferdinan.\ jpg.jpg);
+    background-size: cover;
+    background-position: 0 -180px;
+    border-bottom: 5px solid beige;
+    border-top: 5px solid darksalmon;
+}
+
+.content .Penulis {
+    font-size: 11px;
+    margin-top: 3px;
+}
+
+.content penulis a {
+    color: salmon;
+    text-decoration: none;
+}
+
+.content p {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+
+
+
